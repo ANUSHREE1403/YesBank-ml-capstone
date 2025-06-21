@@ -1,4 +1,4 @@
-# YES BANK ML Capstone 📈
+# YES BANK ML Capstone 
 
 This project predicts YES BANK's stock closing price using machine learning models like Linear Regression and Random Forest Regressor.
 
